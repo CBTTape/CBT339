@@ -1,0 +1,5 @@
+2023-08-06 03:30:53.974121 - Initialized conversion of CBT339
+2023-08-06 03:30:54.007042 - Received CBT.V505.FILE339.PDS from FILE339.XMI 
+2023-08-06 03:30:54.009419 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE339.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:30:54.010490 - Found @FILE339.txt (text/plain) in CBT.V505.FILE339.PDS, moved to PDS/@FILE339
+2023-08-06 03:30:54.011504 - Found JES2X005.txt (text/plain) in CBT.V505.FILE339.PDS, moved to PDS/JES2X005
